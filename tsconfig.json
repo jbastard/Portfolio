@@ -24,7 +24,9 @@
       "@app/*": ["./src/app/*"],
       "@components/*": ["./src/components/*"],
       "@lib/*": ["./src/lib/*"],
-      "@prisma/*": ["./prisma/generated/prisma-client/*"]
+      "@prisma/*": ["./prisma/generated/prisma-client/*"],
+      "@services/*": ["./src/services/*"],
+      "@repositories/*": ["./src/repositories/*"]
     }
   },
   "include": [
